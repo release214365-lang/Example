@@ -1,2 +1,3 @@
-for i in range(1, 11):
+for i in range(1, 50):
     print(i)
+    print('git/upload')
