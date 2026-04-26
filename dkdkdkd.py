@@ -3,3 +3,4 @@ print('nnn')
 
 sldfkja;lk
 file editing-collision
+collsion check:not collision
